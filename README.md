@@ -4,9 +4,12 @@ Web Developer from Vienna, Austria
 
 🌱 I’m currently learning Next.js, Node.js, React, TypeScript,
     JavaScript and PostgreSQL
+    
 💻 Enjoying game development using Phaser,
     but generally curious and looking forward to improve in all areas
+    
 👨‍🎓 Former student of architecture at TU Wien with work experience in gastronomy
+
 📫 How to reach me ...
 
 <!---
