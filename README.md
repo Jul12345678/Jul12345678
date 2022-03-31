@@ -1,6 +1,6 @@
-👋 Hi, I’m Julian!
-⚡Welcome to my Github portfolio!⚡
- Web Developer from Vienna, Austria
+###👋 Hi, I’m Julian!
+###⚡Welcome to my Github portfolio!⚡
+### Web Developer from Vienna, Austria
 
 - 🌱 I’m currently learning Next.js, Node.js, React, TypeScript,
     JavaScript and PostgreSQL
